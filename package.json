@@ -32,6 +32,11 @@
       "git add"
     ]
   },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
   "homepage": "https://github.com/weisuoke/rc-carousel#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
