@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "git-cz"
   },
   "repository": {
     "type": "git",
@@ -49,6 +49,7 @@
     "@types/styled-components": "^4.1.19",
     "commitizen": "^4.0.3",
     "cross-env": "^6.0.3",
+    "cz-conventional-changelog": "^3.0.2",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.0",
     "enzyme-to-json": "^3.4.2",
